@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a66970f-5144-427b-8904-16c1f8d1eebb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/gitbook2/src/main/java/entity/GoipManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gitbook2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gitbook2/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gitbook2/src/main/java/GitBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/gitbook2/src/main/java/GitBook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gitbook2/src/main/java/entity/GoipGateway.java" beforeDir="false" afterPath="$PROJECT_DIR$/gitbook2/src/main/java/entity/GoipGateway.java" afterDir="false" />
-    </list>
+    <list default="true" id="4a66970f-5144-427b-8904-16c1f8d1eebb" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/gitbook2/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -63,8 +58,14 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gitbook2/src/main/java/entity/GoipManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+            <state relative-caret-position="278">
+              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+              <folding>
+                <element signature="e#160#161#0" expanded="true" />
+                <element signature="e#195#196#0" expanded="true" />
+                <element signature="e#262#263#0" expanded="true" />
+                <element signature="e#310#311#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -112,6 +113,7 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/gitbook2/src/main/java/GitBook.java" />
         <option value="$PROJECT_DIR$/gitbook2/src/main/java/entity/GoipGateway.java" />
+        <option value="$PROJECT_DIR$/gitbook2/src/main/java/entity/GoipManager.java" />
       </list>
     </option>
   </component>
@@ -241,16 +243,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561196683592</updated>
-      <workItem from="1561196685346" duration="1579000" />
+      <workItem from="1561196685346" duration="2462000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1579000" />
+    <option name="totallyTimeSpent" value="2462000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
@@ -263,7 +264,7 @@
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" />
-      <window_info active="true" anchor="bottom" id="Version Control" visible="true" weight="0.6032967" />
+      <window_info active="true" anchor="bottom" id="Version Control" visible="true" weight="0.41098902" />
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="PVS-Studio" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -358,8 +359,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/gitbook2/src/main/java/entity/GoipManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        <state relative-caret-position="278">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
+            <element signature="e#262#263#0" expanded="true" />
+            <element signature="e#310#311#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
